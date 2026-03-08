@@ -1,0 +1,74 @@
+html {
+  background-color: #2bcca9;
+}
+
+* {
+  /*border: 2px dotted red;*/
+  box-sizing: border-box;
+}
+
+h1, table {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h2 {
+  text-align: center;
+  font-weight: bold;
+}
+
+h2 {
+  font-family: 'Playpen Sans Arabic', Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  font-size: 40;
+  margin: 0 auto;
+}
+
+table {
+  border: 1px solid black;
+  border-radius: 2px;
+  margin: 0 auto 10px;
+  width: 750px;
+}
+
+th, td {
+  background-color: aqua;
+}
+
+td {
+  font-weight: normal;
+  padding: 5px;
+}
+
+/* Colour Heading */
+
+#c {
+  color: purple;
+}
+
+#o {
+  color: rgb(10, 39, 102);
+}
+
+#l {
+  color: rgb(91, 36, 99);
+}
+
+#r {
+  color: rgb(127, 26, 158);
+}
+
+#s {
+  color: mediumvioletred;
+}
+
+
+.prop {
+  background-color: #e2b5b580;
+  padding: 0 2px;
+  align-self: center;
+}
+
+.code {
+  background-color: #FFFFFFE0;
+  padding: 0 2px;
+}
