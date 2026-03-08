@@ -28,6 +28,7 @@ table {
   border-radius: 2px;
   margin: 0 auto 10px;
   width: 750px;
+  overflow: scroll;
 }
 
 th, td {
